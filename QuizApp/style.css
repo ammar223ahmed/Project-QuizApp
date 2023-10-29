@@ -1,0 +1,61 @@
+body{
+ background-color: black;
+
+}
+fieldset{
+    background-color:blueviolet;
+    color: white;
+    
+    margin-top: 7em;
+    margin-right: 15em;
+    margin-left: 15em;
+    margin-bottom: 10;
+    border-color: white;
+   border-radius: 10px;
+}
+button{
+    margin-top: 5px;
+    margin-left: 12em;
+    padding: 10px ;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(0, 149, 255);
+}
+
+#timer{
+
+ color: rgb(255, 251, 251);
+ margin-left: 8em;
+ font-size: 3em;
+ font-style:initial;
+ font-weight:bold;
+}
+#ques{
+    color: rgb(0, 0, 0);
+    font-size: 3em;
+    font-weight: 600;
+}
+#opt1{
+  
+    font-size: 1em;
+}
+#opt2{
+  
+    font-size: 1em;
+}
+
+#opt3{
+   
+    font-size: 1em;
+}
+input{
+    margin-left: 10em;
+}
+
+
+
+
+
+
+
+
